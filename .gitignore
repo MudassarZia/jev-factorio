@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+.env*
+settings.json
+logs/
+private/
+local-test/
+packages/
+*.dpapi
+*.log
+.pytest_cache/

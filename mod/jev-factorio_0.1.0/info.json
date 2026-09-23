@@ -1,0 +1,9 @@
+{
+  "name": "jev-factorio",
+  "version": "0.1.0",
+  "title": "Jev Factorio Bridge",
+  "author": "MudassarZia",
+  "factorio_version": "2.0",
+  "dependencies": ["base >= 2.0.0"],
+  "description": "Opt-in local RCON bridge for Jev. No control until /jev-enable and an explicit controller run."
+}
